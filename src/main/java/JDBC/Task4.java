@@ -1,4 +1,4 @@
-package org.example;
+package JDBC;
 
 //Вставка данных через PreparedStatement
 

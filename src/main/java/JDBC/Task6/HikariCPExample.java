@@ -1,4 +1,4 @@
-package org.example.Task6;
+package JDBC.Task6;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
